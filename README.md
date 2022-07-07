@@ -33,4 +33,4 @@ Any and all contributions, issues, features and tips are welcome.
 
 
 ### Contact
-For any Suggestion / Ideas ping me at [@Nazir Hussain](https://www.instagram.com/nazir__hassan/)
+For any Suggestion / Ideas ping me at [Nazir Hussain](https://www.instagram.com/nazir__hassan/)
