@@ -19,7 +19,7 @@ A developer would spend an hour adjusting the padding and margin of a single but
  -->
 
 ### Demo
-For Demo of this template you can visit here👉 [Demo](https://nazir-hussain.github.io/Twitter-Homepage/)
+For Demo of this template you can click here👉 [Demo](https://nazir-hussain.github.io/Twitter-Homepage/)
 
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a Twitter homepage of yours then this open-source project may help you setup it to showcase all your creations without effort.
