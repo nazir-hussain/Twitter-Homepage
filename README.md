@@ -20,6 +20,7 @@ A developer would spend an hour adjusting the padding and margin of a single but
 
 ### Demo
 For Demo of this template you can click here👉 [Demo](https://nazir-hussain.github.io/Twitter-Homepage/)
+On netlify website [click](https://62ca998d50e7d117659ed628--rococo-baklava-630a44.netlify.app/)
 
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a Twitter homepage of yours then this open-source project may help you setup it to showcase all your creations without effort.
